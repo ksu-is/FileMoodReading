@@ -1,14 +1,14 @@
 # Roadmap
 
-- Develop the Readme.md file
+- Develop the Readme.md file DONE
 
-- Find Related Repository and Evaluate
+- Find Related Repository and Evaluate DONE
 
-- Find and Evaluate Example Programs
+- Find and Evaluate Example Programs DONE
 
-- Find words that are affiliated with mood of writing
+- Choose which file reader to use with program DONE
 
-- Develop the example .txt file with found words
+- Develop the example .txt file
 
 - Develop the program to read the .txt file and evaluate the mood
 
