@@ -1,7 +1,6 @@
 # FileMoodReading
 
-A project that will take in a file or input and calulate the mood or expression of the writing. The output will display the precentages of each mood reading and evaluate which expression had the highest percentage. The file taken in will be a .txt file.
-
+A project that will take in a text file and a manual input on a word to find within the document. The program will return if the word was found, and if found, how many times the word was found in the program.
 
 ## Authors
 

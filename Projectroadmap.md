@@ -8,8 +8,8 @@
 
 - Choose which file reader to use with program DONE
 
-- Develop the example .txt file
+- Develop the example .txt file DONE
 
-- Develop the program to read the .txt file and evaluate the mood
+- Develop the program to read the .txt file and calculate how many times a word is found within the file
 
-- Develop the program to display the mood of the writing
+- Develop the program to display the amount of times a word is found

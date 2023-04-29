@@ -6,4 +6,18 @@ paragraphs = open('Paragraphs.txt', 'r')
 
 paragraphs_contents = paragraphs.read()
 
-print(paragraphs_contents)
+words = ""
+allwords = []
+
+for i in paragraphs_contents:
+    if i.isalpha():
+        words = words + i
+    elif i == " ":
+        allwords.append(words)
+        words = ""
+
+
+inp = input("Please enter a word to find: ")
+
+
+
