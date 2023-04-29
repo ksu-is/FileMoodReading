@@ -1,5 +1,9 @@
 import os
 
-os.system("curl https://github.com/ksu-is/FileWordFinder/blob/main/Paragraphs.txt -o Paragraphs.txt")
+os.system("curl https://raw.githubusercontent.com/ksu-is/FileWordFinder/main/Example -o Paragraphs.txt")
 
 paragraphs = open('Paragraphs.txt', 'r')
+
+paragraphs_contents = paragraphs.read()
+
+print(paragraphs_contents)
